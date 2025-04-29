@@ -4,8 +4,11 @@
   "description": "A simple HTTP server using Node.js core module",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node server.js"
   },
-  "author": "Your Name",
-  "license": "MIT"
+  "author": "Manish Kumar Jangir",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
 }
